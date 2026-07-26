@@ -1,2 +1,26 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Building my foundational skills in IT and computing step by step.<br><br>🌱 I’m currently learning<br><br>The basics of programming, mathematics, and systems to prepare for my future cybersecurity path.<br><br>🤝 I’m looking to collaborate on<br><br>Beginner-friendly open-source projects or learning groups to stay motivated and avoid procrastination.<br><br>💬 Ask me about<br><br>My future goals to study cybersecurity and engineering in an American university.<br><br>⚡ Fun fact<br><br>I don't know how to do everything yet, but these are my ultimate goals and I am working hard every single day to achieve them!<br>
+# 💫 About Me
+
+### 🔭 I’m currently working on
+Building **software tools & micro-SaaS** while mastering **Quantitative Trading**, **Applied Mathematics**, and **Low-Level Systems**.
+
+### 🌱 I’m currently learning
+- **Mathematics:** Linear Algebra, Calculus, Probability & Statistics.
+- **Development & AI:** C++, Python, Machine Learning & AI fundamentals.
+- **Cybersecurity:** Cryptography & Reverse Engineering.
+
+### 🤝 I’m looking to collaborate on
+Open-source projects in **C++ / Python**, financial data analysis tools, AI-powered applications, and SaaS ventures.
+
+### 💬 Ask me about
+My path toward **Math & Computer Science**, Engineering Schools, Quantitative Trading, Cryptography, and SaaS development.
+
+### ⚡ Fun fact
+Nothing gets me more fired up than taking a complex mathematical or technical problem and turning it into high-performance code!
+
+---
+
+# 🗺️ Learning Roadmap
+
+* ⏳ **Phase 1: Foundations** — Master **Advanced Mathematics**, **C++**, **Python**, and fundamental algorithms.
+* ⏳ **Phase 2: Security & AI** — Deep dive into **Cryptography**, **Reverse Engineering**, and **AI/ML models**.
+* ⏳ **Phase 3: SaaS & Quant Systems** — Deploy functional **Micro-SaaS** products and build **Quantitative Trading** algorithms (Backtesting, Risk Management, Statistical Arbitrage).
