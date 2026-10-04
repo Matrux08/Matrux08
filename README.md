@@ -19,8 +19,4 @@ Nothing gets me more fired up than taking a complex mathematical or technical pr
 
 ---
 
-# 🗺️ Learning Roadmap
 
-* ⏳ **Phase 1: Foundations** — Master **Advanced Mathematics**, **C++**, **Python**, and fundamental algorithms.
-* ⏳ **Phase 2: Security & AI** — Deep dive into **Cryptography**, **Reverse Engineering**, and **AI/ML models**.
-* ⏳ **Phase 3: SaaS & Quant Systems** — Deploy functional **Micro-SaaS** products and build **Quantitative Trading** algorithms (Backtesting, Risk Management, Statistical Arbitrage).
