@@ -6,8 +6,7 @@ Building **software tools & micro-SaaS** while mastering **Quantitative Trading*
 ### 🌱 I’m currently learning
 - **Mathematics:** Linear Algebra, Calculus, Probability & Statistics.
 - **Development & AI:** C++, Python, Machine Learning & AI fundamentals.
-- **Cybersecurity:** Cryptography & Reverse Engineering.
-
+- 
 ### 🤝 I’m looking to collaborate on
 Open-source projects in **C++ / Python**, financial data analysis tools, AI-powered applications, and SaaS ventures.
 
